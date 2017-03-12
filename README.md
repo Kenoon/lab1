@@ -1,2 +1,1 @@
-# lab1
-lab1
+g++ -o qestionB questionB.cpp
