@@ -1,4 +1,7 @@
-Script started on 2017年03月13日 (週一) 00時17分20秒
+Script started on 2017年03月12日 (週日) 23時07分05秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ^C
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m  script lab1.script
+Script started, file is lab1.script
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ^C
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https://github.com/Kenoon/lab1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kscript questionBv[K.script
 Script started, file is questionB.script
@@ -9,6 +12,4 @@ Script started, file is questionB.script
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitK/lab1.gite/lab1.gitn/lab1.gito/lab1.gito/lab1.gitn/lab1.git
 Cloning into 'lab1'...
 remote: Counting objects: 15, done.[K
-remote: Compressing objects:   8% (1/12)   [Kremote: Compressing objects:  16% (2/12)   [Kremote: Compressing objects:  25% (3/12)   [Kremote: Compressing objects:  33% (4/12)   [Kremote: Compressing objects:  41% (5/12)   [Kremote: Compressing objects:  50% (6/12)   [Kremote: Compressing objects:  58% (7/12)   [Kremote: Compressing objects:  66% (8/12)   [Kremote: Compressing objects:  75% (9/12)   [Kremote: Compressing objects:  83% (10/12)   [Kremote: Compressing objects:  91% (11/12)   [Kremote: Compressing objects: 100% (12/12)   [Kremote: Compressing objects: 100% (12/12), done.[K
-remote: Total 15 (delta 2), reused 8 (delta 0), pack-reused 0[K
-Unpacking objects:   6% (1/15)   Unpacking objects:  13% (2/15)   Unpacking obje
+remote: Compressing objects:   8% (1/12)   [Kremote: Compressing objects:  16% (2/12)   [Kremote: Compressing objects:  25% (3/12)   [Kremote: Compressing objects:  33% (4/12)   [Kremote: Compressing objects:  41% (5/12)   [Kremote: Compressing objects:  50% (6/12)   [Kremote: Compressing objects:  58% (7/12)   [Kremote: Compressing objects:  66% (8/12)   [Kremote: Compressing objects:  75% (9/12)   [Kremote: Compressing objects:  83% (10/12)   [Kremote: Compressing objects:  91% (11/12)   [Kremote: Compressing objects: 100% (12/12)   [Kremote: Compressing objects: 100%
